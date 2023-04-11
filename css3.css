@@ -1,0 +1,15 @@
+/*fuente h2*/
+h2{ font-size: 40px;
+    color: white;
+	font-family: Fantasy;
+}
+/*fuente h1*/
+h1{font-family: Fantasy; 
+font-size: 70px;
+color: white;}
+
+/*imagen de fondo */
+body {
+     background-image: url("descarga.jpg");
+}
+

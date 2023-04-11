@@ -1,0 +1,8 @@
+/*imagen de fondo */
+body {
+     background-image: url("imagen de inicio.jpg");
+}
+
+/*fuente h1*/
+h1{font-family: Fantasy; 
+font-size: 70px;}
